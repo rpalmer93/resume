@@ -1,7 +1,7 @@
 ## Ryan Palmer
 509-540-4123
 [ryan.palm93@gmail.com](mailto:ryan.palm93@gmail.com)
-***
+*** 
 ## Junior Web Developer
 Recent coding school graduate and junior web developer continuing to self-study advanced level topics in the JavaScript programming language. Continuing to build full C.R.U.D applications & study MERN stack in single page/ mobile-first applications. Built out inventory management, time-mapping, & food/ beer pairing applications while at coding school.
 ## Expertise
@@ -33,5 +33,5 @@ Recent coding school graduate and junior web developer continuing to self-study 
 * Code 301 - Intermediate Web Development (Completed 2/18)
 * Code 201 - Beginning Web Development 
 ### **Washington State University**, Pullman, WA
-B.A. in Digital Media Authoring, 2012 - 2016
+* B.A. in Digital Media Authoring, 2012 - 2016
 
