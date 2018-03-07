@@ -14,6 +14,7 @@ Recent coding school graduate and junior web developer continuing to self-study 
 * Site Troubleshooting
 * Information Architecture
 * Multimedia Design
+* Sales & Operations
 ## Professional Experience
 ### **Mountain To Sound Outfitters**, Seattle, WA
 **_Sales & Operations Associate_**, May 2016 - May 2017
@@ -36,5 +37,5 @@ Recent coding school graduate and junior web developer continuing to self-study 
 * B.A. in Digital Media Authoring, 2012 - 2016
 
 ## Technical Summary
-HTML5; XHTML; CSS3; JavaScript ES6; jQuery; Git; SQL; Node.js; NPM; Express; Adobe Creative Cloud; WordPress; AJAX; CMS Tools; Mobile-first builds; Windows; Mac; iOS;
+HTML5; XHTML; CSS3; JavaScript ES6; jQuery; Git; SQL; Node.js; NPM; Express; Azure; Adobe Creative Cloud; WordPress; JSON; AJAX; CMS Tools; Mobile-first builds; Windows; Mac; iOS;
 
